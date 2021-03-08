@@ -1,0 +1,20 @@
+body{
+    background-color: lightskyblue;
+}
+form{
+    text-align: center;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    margin: 50px 90px 0px 90px;
+    border: 2px solid black;
+    
+}
+button{
+    background-color:deepskyblue;
+    width: 42%;
+}
+nav{
+    background-color: ghostwhite;
+    text-align: right;
+    padding: 10px 10px 10px 10px;
+}
